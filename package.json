@@ -1,5 +1,26 @@
 {
+  "name": "awslp",
+  "version": "0.1.0",
+  "description": "Build landing page environment using aws S3 and CloudFront",
+  "main": "index.js",
   "dependencies": {
     "aws-sdk": "^2.9.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takayukioda/awslp.git"
+  },
+  "keywords": [
+    "aws"
+  ],
+  "author": "Takayuki Oda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takayukioda/awslp/issues"
+  },
+  "homepage": "https://github.com/takayukioda/awslp#readme"
 }
