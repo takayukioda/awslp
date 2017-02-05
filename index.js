@@ -2,7 +2,6 @@
 
 const awslp = require("./lib/awslp");
 
-console.log(awslp);
 const todo = [
   "awslp s3 create <bucket-name>",
   "awslp s3 set-policy <bucket-name>",
@@ -13,3 +12,4 @@ const todo = [
 ];
 
 console.log("ToDo", todo);
+console.log(awslp);
