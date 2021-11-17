@@ -4,7 +4,7 @@
   "description": "Build landing page environment using aws S3 and CloudFront",
   "main": "index.js",
   "dependencies": {
-    "aws-sdk": "^2.9.0"
+    "aws-sdk": "^2.814.0"
   },
   "devDependencies": {
     "eslint": "^4.18.2"
